@@ -195,3 +195,9 @@ npm run build   # build de production
 npm run start   # serveur de production (après build)
 npm run lint    # linter Next.js
 ```
+
+---
+
+## 👤 Auteur
+
+**Ahmad Souleymane** — [@ahmadsouleymane](https://github.com/ahmadsouleymane)
