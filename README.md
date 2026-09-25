@@ -4,7 +4,7 @@ Liste d'attente avant le lancement du **11 juin 2026**. Stack : Next.js 15 (App 
 
 ---
 
-## 🚀 Démarrage rapide
+## Démarrage rapide
 
 ```bash
 # 1. Installer les dépendances
@@ -114,7 +114,7 @@ Les inscriptions arriveront dans `public.waitlist`. Tu peux les exporter en CSV 
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 app/
@@ -195,9 +195,3 @@ npm run build   # build de production
 npm run start   # serveur de production (après build)
 npm run lint    # linter Next.js
 ```
-
----
-
-## 👤 Auteur
-
-**Ahmad Souleymane** — [@ahmadsouleymane](https://github.com/ahmadsouleymane)
